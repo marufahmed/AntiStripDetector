@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/button_regular</item>
+        <item name="colorPrimaryDark">@color/button_pressed</item>
+        <item name="colorAccent">@color/abc_secondary_text_material_dark</item>
+        <item name="android:navigationBarColor">@color/button_pressed</item>
+    </style>
+</resources>

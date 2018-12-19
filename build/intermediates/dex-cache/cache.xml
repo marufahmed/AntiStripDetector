@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\Research project\1. Asphalt quality control\Android Application\myscioapplication\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="G:\Research project\1. Asphalt quality control\Android Application\myscioapplication\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ab3a3a1e893d2cc26b8a57224533c6702074c821\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maruf\.android\build-cache\71663f41fdd55835485e9fe040c2014b651af4de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed22f5a3da0643761f53fc0627fc437e68ff9980">
+        <dex dex="G:\Research project\1. Asphalt quality control\Android Application\myscioapplication\build\intermediates\transforms\dex\debug\folders\1000\10\classes_55bd47ee49f059ef929db04cc4a9300dba7bc08e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Research project\1. Asphalt quality control\Android Application\myscioapplication\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1f29cdc5492e840fca9fddf686946cf32a1913be">
+        <dex dex="G:\Research project\1. Asphalt quality control\Android Application\myscioapplication\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_df3b7dbbafbe6b18fa8d44689f4f6e3959c3ed2d\classes.dex" />
+    </item>
+
+</items>

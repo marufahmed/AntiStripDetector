@@ -1,0 +1,22 @@
+#Sun Oct 21 14:56:02 MDT 2018
+renamed.6=classes6.dex
+renamed.5=classes5.dex
+renamed.4=classes7.dex
+renamed.3=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes4.dex
+renamed.0=classes2.dex
+base.6=G\:\\Research project\\1. Asphalt quality control\\Android Application\\myscioapplication\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\okio-1.11.0_84b44e61b707d7f19272f08626bbc1fdcb0cfe23
+base.5=G\:\\Research project\\1. Asphalt quality control\\Android Application\\myscioapplication\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\okhttp-3.5.0_6b430eb7622de2cdc48606ad50d6881ef0ebe392
+base.4=G\:\\Research project\\1. Asphalt quality control\\Android Application\\myscioapplication\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_56871789175dd8c490bfbabaed0ffe5e55359d14
+base.3=G\:\\Research project\\1. Asphalt quality control\\Android Application\\myscioapplication\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_18f01109ee72ce38ddb17f8411a477b3293eabb3
+base.2=G\:\\Research project\\1. Asphalt quality control\\Android Application\\myscioapplication\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e096c48a7fa6e1f4b4a7009725af15279d28b3aa
+base.1=G\:\\Research project\\1. Asphalt quality control\\Android Application\\myscioapplication\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_28838f234ccac7f3d043531f963973edc06cbcb0
+base.0=G\:\\Research project\\1. Asphalt quality control\\Android Application\\myscioapplication\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_55bd47ee49f059ef929db04cc4a9300dba7bc08e
+file.6=G\:\\Research project\\1. Asphalt quality control\\Android Application\\myscioapplication\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\okio-1.11.0_84b44e61b707d7f19272f08626bbc1fdcb0cfe23\\classes.dex
+file.5=G\:\\Research project\\1. Asphalt quality control\\Android Application\\myscioapplication\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\okhttp-3.5.0_6b430eb7622de2cdc48606ad50d6881ef0ebe392\\classes.dex
+file.4=G\:\\Research project\\1. Asphalt quality control\\Android Application\\myscioapplication\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_56871789175dd8c490bfbabaed0ffe5e55359d14\\classes.dex
+file.3=G\:\\Research project\\1. Asphalt quality control\\Android Application\\myscioapplication\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_18f01109ee72ce38ddb17f8411a477b3293eabb3\\classes.dex
+file.2=G\:\\Research project\\1. Asphalt quality control\\Android Application\\myscioapplication\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e096c48a7fa6e1f4b4a7009725af15279d28b3aa\\classes.dex
+file.1=G\:\\Research project\\1. Asphalt quality control\\Android Application\\myscioapplication\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_28838f234ccac7f3d043531f963973edc06cbcb0\\classes.dex
+file.0=G\:\\Research project\\1. Asphalt quality control\\Android Application\\myscioapplication\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_55bd47ee49f059ef929db04cc4a9300dba7bc08e\\classes.dex

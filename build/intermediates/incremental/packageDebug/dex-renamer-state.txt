@@ -1,0 +1,7 @@
+#Sun Oct 21 14:56:03 MDT 2018
+base.0=G\:\\Research project\\1. Asphalt quality control\\Android Application\\myscioapplication\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_df3b7dbbafbe6b18fa8d44689f4f6e3959c3ed2d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=G\:\\Research project\\1. Asphalt quality control\\Android Application\\myscioapplication\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ab3a3a1e893d2cc26b8a57224533c6702074c821\\classes.dex
+base.1=G\:\\Research project\\1. Asphalt quality control\\Android Application\\myscioapplication\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ab3a3a1e893d2cc26b8a57224533c6702074c821
+file.0=G\:\\Research project\\1. Asphalt quality control\\Android Application\\myscioapplication\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_df3b7dbbafbe6b18fa8d44689f4f6e3959c3ed2d\\classes.dex
